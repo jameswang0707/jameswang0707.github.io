@@ -19,6 +19,11 @@ body {
 body {
     width:1500px;
     margin: 0 auto;
+    
+}
+
+.a{
+    color: black;
 }
 
 h1 {
