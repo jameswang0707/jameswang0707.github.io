@@ -9,7 +9,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     color:#fff;
     font-size:16pt;
-    background: url(http://emojination.xyz/wp-content/uploads/2016/07/emojis.png); 
+    bgcolor: black; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
